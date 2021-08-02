@@ -32,6 +32,10 @@ entries:
       url: /mydoc_hello.html
       output: web, pdf
 
+    - title: AWS
+      url: /mydoc_aws.md
+      output: web, pdf
+
     - title: Supported features
       url: /mydoc_supported_features.html
       output: web, pdf
